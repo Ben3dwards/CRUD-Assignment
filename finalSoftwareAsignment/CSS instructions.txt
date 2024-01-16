@@ -1,0 +1,3 @@
+James-10.40-27/11/23:
+  Tips and notes
+    The CSS file style is linked to Signup.html and        signIn.html.

@@ -1,4 +1,4 @@
-//Wasn't used in the submitted asignment.
+//Wasn't used in the final submitted asignment.
 class user {
   constructor(Status, userEmail){
     this.Status = Status;
